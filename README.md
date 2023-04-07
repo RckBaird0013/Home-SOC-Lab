@@ -3,7 +3,8 @@
 ## First Home Lab Completed
 Pictures committed. 
 
-###This is just the beginning. I will continue to use my lab to better understand how to detect threats and how to create rules that are accurate. More to come from my newly set up SOC Analyst Lab.
+### This is just the beginning! 
+I will continue to use my lab to better understand how to detect threats and how to create rules that are accurate. More to come from my newly set up SOC Analyst Lab.
 
 Big thanks to Eric Capuano for the step by step on how to do so
 https://blog.ecapuano.com/p/so-you-want-to-be-a-soc-analyst-intro
